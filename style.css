@@ -1,0 +1,26 @@
+body {
+    background: #f6f2fe;
+} 
+
+h1 {
+    text-decoration: underline;
+    color: #885df1;
+    text-align: center;
+}
+
+h2 {
+    color: #272044;
+    text-align: center;
+}
+
+.courses {
+    color: #4a34ef;
+}
+
+.coders {
+    color: #a000e5;
+}
+
+.stories {
+    color: #5f00e5;
+}
